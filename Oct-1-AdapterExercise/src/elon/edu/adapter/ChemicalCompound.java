@@ -7,7 +7,7 @@
 package elon.edu.adapter;
 
 /**
- * Interface that client demands implentation to support
+ * Interface that client demands implementation to support
  * 
  * @author dpowell2
  * @version 1.0
